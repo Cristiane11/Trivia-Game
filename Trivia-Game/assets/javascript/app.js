@@ -33,7 +33,7 @@ var questions = [{
   question: "How old was Jesus when he first talked to the elders at the temple in Jerusalem?",
   answers: ["Thirteen", "Ten", "Twelve", "Five"],
   correctAnswer: "Twelve",
-  image:"assets/images/Jesus.JPG"
+  image:"assets/images/Jesus.jpg"
 }, {
   question: "What is the old Capital of India?",
   answers: ["New Delhi", "Calcutta", "Goa", "Mumbai"],
